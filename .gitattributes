@@ -1,0 +1,4 @@
+model_weights_18_93.50.pth filter=lfs diff=lfs merge=lfs -text
+model_weights_9_91.00.pth filter=lfs diff=lfs merge=lfs -text
+model_weights_36_88.00.pth filter=lfs diff=lfs merge=lfs -text
+model_weights_47_89.00.pth filter=lfs diff=lfs merge=lfs -text
